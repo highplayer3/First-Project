@@ -1,0 +1,4 @@
+repository "New Unity Project@ssl://high_player3@sh02-plasticscm.unity.cn:8787"
+  path "/"
+    smartbranch "/main/2816912529" 
+     
